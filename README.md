@@ -1,4 +1,4 @@
-liferay-lecture2go-portal-tomcat-6.1.1
+Lecture2Go Portal
 ===========================
 
 The Lecture2Go media and distribution portal software is based on <a href="http://liferay.com" target="_blank">Liferay</a>. 
